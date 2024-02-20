@@ -1,0 +1,35 @@
+.hero {
+  background-image: url(https://images.unsplash.com/photo-1669054626218-f0b57b8ec632?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 36px;
+  color: white;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #F50057;
+  padding: 20px 40px;
+  border-radius: 50px;
+  color: white;
+}
